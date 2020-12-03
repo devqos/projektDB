@@ -1,0 +1,10 @@
+DROP TABLE biblioteka.egzemplarz;
+DROP TABLE biblioteka.autorzy_ksiazki;
+DROP TABLE biblioteka.autorzy;
+DROP TABLE biblioteka.wypozyczenia;
+DROP TABLE biblioteka.status;
+DROP TABLE biblioteka.status_wypozyczenia;
+DROP TABLE biblioteka.czytelnik;
+DROP TABLE biblioteka.bibliotekarz;
+DROP TABLE biblioteka.ksiazka;
+DROP TABLE biblioteka.wydawnictwo;
